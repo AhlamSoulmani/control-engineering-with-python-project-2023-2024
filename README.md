@@ -10,9 +10,9 @@ Your team: group number ❔
 
   - Student 1: SOULMANI Ahlam  + `AhlamSoulmani`
 
-  - Student 2: ELQAQI Yassir + `github user name`
+  - Student 2: ELQAQI Yassir + `yassir1901`
   
-  - Student 3: RADI Nezar+ `github user name`
+  - Student 3: RADI Nezar+ `nezarradi`
 
   - Student 4: EL ASRI Abdelhamid + `AbdelhamidELASRI27`
 
